@@ -1,1 +1,1 @@
-# LSTM Earthquake Prediction
+# LSTM Energy Consumption Prediction
